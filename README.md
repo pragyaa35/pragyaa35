@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" width="100%">
+</div>
+
+<br>
+
 #  Hi, I'm Pragya!
 
 ### 🤖 AI & Robotics Student |  Software & AI/ML Explorer
